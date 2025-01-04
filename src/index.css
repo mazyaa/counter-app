@@ -1,0 +1,49 @@
+*{
+    font-family: 'montserrat', sans-serif;
+}
+
+.parent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 164px;
+    height: auto;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.img{
+    width: 100px;
+}
+
+.parentBtn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.counter{
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    margin-bottom: 12px;
+    height: 34px;
+    width: auto;
+    align-items: center;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 220px;
+    background-color: blueviolet;
+    width: 100%;
+    color: white;
+    
+}
